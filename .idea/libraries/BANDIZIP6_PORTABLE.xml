@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BANDIZIP6-PORTABLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BANDIZIP6-PORTABLE.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
