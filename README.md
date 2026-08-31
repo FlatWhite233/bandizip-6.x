@@ -1,5 +1,3 @@
-
-
 # ✨Bandizip
 
 官方网站：[Bandisoft - Bandizip, Honeycam, Honeyview](http://www.bandisoft.com/)
