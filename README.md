@@ -1,3 +1,5 @@
+
+
 # ✨Bandizip
 
 官方网站：[Bandisoft - Bandizip, Honeycam, Honeyview](http://www.bandisoft.com/)
@@ -80,7 +82,7 @@ Bandizip历史版本
 
 <br>
 
-# ✨Bandzip历史版本下载
+# ✨Bandizip历史版本下载
 
 GitHub：
 
